@@ -37,4 +37,4 @@ That repo is the canonical source — clone it for the chapter-by-chapter exampl
 
 ## Connect
 
-Find Javier on [LinkedIn](https://www.linkedin.com/in/jreguera/).
+Find me on [LinkedIn](https://www.linkedin.com/in/jreguera/).
